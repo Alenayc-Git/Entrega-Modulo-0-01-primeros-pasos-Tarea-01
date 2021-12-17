@@ -24,3 +24,7 @@ Aprendí a utilizar comando básicos de terminal en linux
 - Con **git add \*** se agregaron todos los archivos
 
 ![](/git-add.PNG)
+
+- Realicé con mucha emoción mi primer commit
+
+![](/git-commit.PNG)
