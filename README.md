@@ -34,3 +34,5 @@ A continuación procedí a crear un repositorio en github para poder subir el ej
 ![](/git-remote.PNG)
 
 Y para subirlo utilicé **git push**
+
+![](/git-push.PNG)
