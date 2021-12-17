@@ -1,4 +1,4 @@
-#Conceptos Aprendidos
+# Conceptos Aprendidos
 
 Aprendí a utilizar comando básicos de terminal en linux
 
