@@ -28,3 +28,9 @@ Aprendí a utilizar comando básicos de terminal en linux
 - Realicé con mucha emoción mi primer commit
 
 ![](/git-commit.PNG)
+
+A continuación procedí a crear un repositorio en github para poder subir el ejercicio
+
+![](/git-remote.PNG)
+
+Y para subirlo utilicé **git push**
